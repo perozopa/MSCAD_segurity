@@ -1,2 +1,2 @@
 # MSCAD_segurity
-En este repositorio se encuntra el segundo dataset ciberseguridad
+En este repositorio se encuentra el segundo dataset de ciberseguridad
